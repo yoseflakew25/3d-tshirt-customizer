@@ -1,5 +1,7 @@
 # 3d Tshirt Customizer
 
+![React Fitness Application](https://github.com/yoseflakew25/3d-tshirt-customizer/blob/main/screenshots/gif.gif)
+
 ![React Fitness Application](https://github.com/yoseflakew25/3d-tshirt-customizer/blob/main/screenshots/1.png)
 
 ![React Fitness Application](https://github.com/yoseflakew25/3d-tshirt-customizer/blob/main/screenshots/2.png)
